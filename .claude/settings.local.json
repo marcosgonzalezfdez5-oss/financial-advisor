@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod +x c:/Users/mg929/OneDrive/Documentos/MarkzProjects/financial-advisor/scripts/setup.sh)"
+    ]
+  }
+}
